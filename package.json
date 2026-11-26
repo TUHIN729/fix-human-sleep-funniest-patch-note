@@ -1,0 +1,1 @@
+{"description":"One-line patch note fixing human sleep, for the make.fun bounty.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"fix-human-sleep-funniest-patch-note","type":"module","version":"1.0.0"}
